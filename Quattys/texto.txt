@@ -1,0 +1,34 @@
+useTimezone=true&serverTimezone=UTC 
+useTimezone=true&serverTimezone=America/Sao_Paulo
+zeroDateTimeBehavior=CONVERT_TO_NULL
+
+
+jdbc:mysql://localhost:3306/ProjetoEsportivoBD?useTimezone=true&serverTimezone=America/Sao_Paulo&useSSL=false
+
+
+Cannot resolve query parameter '12' 
+ Inspection info: This inspection checks for the following Persistence model problems:
+Named query not found
+Query parameter not found
+
+Erickson
+Tulio
+ericksonTulio
+1234567
+1996/01/19
+100.0
+1.84
+2
+Philadelphia 76ers
+Philadelphia_76ers@NBA.com
+
+
+(1,Philadelphia 76ers,'76ers',44659097000114,16,'Brett Brown','Rua Cândido Portinari','Real Parque','SC','Philadelphia_76ers@NBA.com',1),
+(2,'Chicago Bulls','Bulls',96977742000140,16,'Jim Boylen','Praça da República','República','SP','Chicago_Bulls@NBA.com',2),
+(3,'Charlotte Hornets','Hornets',50423399000191,16,'James Borrego','Rodovia Raposo Tavares','Lageadinho','SP','Charlotte_Hornets@NBA.com',3)
+
+
+Armador, Ala Armador, Ala, Ala Pivo, Pivo
+
+
+Ar
